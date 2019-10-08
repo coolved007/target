@@ -1,6 +1,6 @@
 # Card Game
 The game supports below functionalities
-1. MultiPlayer suppport
+1. MultiPlayer support
 2. Shuffling of cards
 3. Dealing a card
 
