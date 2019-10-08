@@ -7,6 +7,7 @@ public class GameDriver {
         Game game = new Game(5);
         game.play(5);
         System.out.println("******WINNER******");
-        System.out.println(game.getWinners());
+        for(Player winner : game.getWinners())
+            System.out.println(winner.getName());
     }
 }
